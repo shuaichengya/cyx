@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaichengya.github.io/cyx/</id>
-    <title>小熊的博客</title>
-    <updated>2020-11-09T03:39:08.728Z</updated>
+    <title>Cheng</title>
+    <updated>2020-11-09T03:45:38.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaichengya.github.io/cyx/"/>
     <link rel="self" href="https://shuaichengya.github.io/cyx/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://shuaichengya.github.io/cyx/images/avatar.png</logo>
     <icon>https://shuaichengya.github.io/cyx/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小熊的博客</rights>
+    <rights>All rights reserved 2020, Cheng</rights>
     <entry>
         <title type="html"><![CDATA[Hello 小熊]]></title>
         <id>https://shuaichengya.github.io/cyx/post/hello-gridea/</id>
